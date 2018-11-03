@@ -27,16 +27,4 @@
         xsi:type="archimate:Location"
         href="Location_d16164db-ba46-482d-b68e-217ed3c6bbac.xml#d16164db-ba46-482d-b68e-217ed3c6bbac"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0f952d85-aca0-484e-9cae-d33e3226b67d">
-    <bounds
-        x="73"
-        y="107"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_4b761e04-1f2a-4ebb-87a4-f3744a9ec240.xml#4b761e04-1f2a-4ebb-87a4-f3744a9ec240"/>
-  </children>
 </archimate:ArchimateDiagramModel>
